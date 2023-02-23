@@ -1,5 +1,5 @@
 <!-- from: https://giphy.com/gifs/art-cartoon-painting-jUhkz8bRXfFqpwP34k -->
-<img src="https://user-images.githubusercontent.com/118244804/221054506-4061f3be-c543-47ce-91b8-f7a72eda5a46.gif" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/118244804/221054506-4061f3be-c543-47ce-91b8-f7a72eda5a46.gif" width="768" height="432" />
 
 <!--
 **ebki/ebki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
