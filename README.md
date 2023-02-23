@@ -1,5 +1,5 @@
-<!-- from: https://giphy.com/gifs/glitch-computer-glitchy-JsE9qckiYyVClQ5bY2 -->
-![computer-glitch](https://user-images.githubusercontent.com/118244804/221053849-b6c4a183-ad87-41a4-babc-db2de75066ad.gif)
+<!-- from: https://giphy.com/gifs/art-cartoon-painting-jUhkz8bRXfFqpwP34k -->
+![alienart](https://user-images.githubusercontent.com/118244804/221054506-4061f3be-c543-47ce-91b8-f7a72eda5a46.gif)
 
 <!--
 **ebki/ebki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
